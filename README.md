@@ -1,22 +1,21 @@
 # Exploratory-Data-Analysis-with-python-and-pandas
 Project Structure
 
-The hands on project on Exploratory Data Analysis With Python and Pandas is divided into following tasks:
+The project " Exploratory Data Analysis With Python and Pandas" is divided into following tasks:
 
 *  Task 1: Initial Data Exploration
 
-   In this task, we are introduced to the project and learning outcomes.
-   Once we are familiarized with the Rhyme interface, we begin working in Jupyter Notebooks, a web-based interactive computational environment for creating notebook documents.
+   In this task, we are introduced to the project and learning outcomes and will use Jupyter NoteBook 
    Next, we will import essential libraries such as NumPy, Pandas, Seaborn, Matplotlib and so on.
    We use Pandas to read in the data, get a brief glimpse of the first few rows, and calculate some quick summary statistics of the numeric columns.
 
 
 *   Task 2: Univariate Analysis
 
-   In this task, we conduct univariate analysis on both continuous and categorical variables.
-   We first plot the distribution of customer ratings with seaborn and also overlay the mean, 25th and 75th percentile quantiles calculated using Numpy.
-   We then use Pandas' .hist() method to plot the distribution for all numeric variables.
-   Using Seaborn's .countplot() method, we see the frequency distribution of 'Branch' and 'Payment' which are categorical variables.
+    In this task, we conduct univariate analysis on both continuous and categorical variables.
+    We first plot the distribution of customer ratings with seaborn and also overlay the mean, 25th and 75th percentile quantiles calculated using Numpy.
+    We then use Pandas' .hist() method to plot the distribution for all numeric variables.
+    Using Seaborn's .countplot() method, we see the frequency distribution of 'Branch' and 'Payment' which are categorical variables.
 
 
 *  Task 3: Bivariate Analysis
