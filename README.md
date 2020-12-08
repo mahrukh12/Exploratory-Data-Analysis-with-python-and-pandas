@@ -36,3 +36,7 @@ Task 5: Correlation Analysis
     We use Numpy to calculate the correlation between two numeric variables.
     We then use pandas to calculate a correlation matrix to show all pairwise correlations of numeric variables.
     Finally, we use seaborn to plot the calculated correlation matrix as a heatmap that is easily interpretable.
+    
+    
+    # Author: MAHRUKH MALIK
+## Certificate Link: https://coursera.org/share/c5f78a34c6ca5876c9022a22bc9dd3df
